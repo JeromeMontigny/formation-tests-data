@@ -26,5 +26,3 @@ pip install dbt-postgres
 pip install great_expectations
 
 pip install -U pytest
-
-# TODO : créer la structure avec src, test, __init__, etc
